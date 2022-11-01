@@ -1,0 +1,8 @@
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.csproj.AssemblyReference.cache
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.AssemblyInfoInputs.cache
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.AssemblyInfo.cs
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.csproj.CoreCompileInputs.cache
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.RazorAssemblyInfo.cache
+D:\dotnet upskilling training ust\Web Application\Project\TrafficChallanManagement\TrafficChallanManagement\obj\Debug\net6.0\TrafficChallanManagement.RazorAssemblyInfo.cs
